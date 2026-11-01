@@ -178,4 +178,7 @@ This guide was drafted with Claude (Anthropic) under my direction. The tools nam
 
 ## See what I make with it
 
-[The public records of my own show](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast).
+- [The show on YouTube](https://www.youtube.com/@SwingLightStyle)
+- [The show's public records](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast)
+- [My website](https://swinglightstyle.com)
+- [My research](https://orcid.org/0009-0009-3669-7659)
