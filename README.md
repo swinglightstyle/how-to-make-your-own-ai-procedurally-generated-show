@@ -182,3 +182,7 @@ This guide was drafted with Claude (Anthropic) under my direction. The tools nam
 - [The show's public records](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast)
 - [My website](https://swinglightstyle.com)
 - [My research](https://orcid.org/0009-0009-3669-7659)
+
+## Licence
+
+This guide is free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share it, adapt it and build on it for any purpose, as long as you give credit. The names of the tools belong to their owners.
