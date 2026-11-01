@@ -1,6 +1,6 @@
 # How to Make Your Own AI, Procedurally Generated Show
 
-A full content pipeline, from the first idea to the posted episode. This is the model I use, and it's free. Take it, change it, and make something of your own.
+A full content pipeline, from the first idea to the posted episode. This is the model I use, designed to run automated. The guide is free, though some of the tools cost money. Take it, change it, and make something of your own.
 
 ## The idea: AI reality TV
 
